@@ -1,10 +1,9 @@
-import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Orders from "./pages/Orders";
-import Contact from "./pages/Contact";
-import About from "./pages/About";
-import Nav from "./components/Nav";
+import Home from "./pages/Home.jsx";
+import Orders from "./pages/Orders.jsx";
+import Contact from "./pages/Contact.jsx";
+import About from "./pages/About.jsx";
+import Nav from "./components/Nav.jsx";
 
 function App() {
   return (
