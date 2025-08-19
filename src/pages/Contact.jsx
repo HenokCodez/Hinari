@@ -24,19 +24,19 @@ function Contact() {
             <p className="flex items-center gap-2">
               <img src="/telegram.png" alt="telegram" className="w-16" />
               <span className="text-[14px] md:text-[20px]">
-                <strong>Telegram:</strong> @Hinari🌸
+                <strong>Telegram:</strong> @hinari_anime
               </span>
             </p>
             <p className="flex items-center gap-2">
               <img src="/instagram.png" alt="instagram" className="w-16" />
               <span className="text-[14px] md:text-[20px]">
-                <strong>Instagram:</strong> @Hinari🌸
+                <strong>Instagram:</strong> @hinari_anime
               </span>
             </p>
             <p className="flex items-center gap-2">
               <img src="/tiktok.png" alt="tiktok" className="w-16" />
               <span className="text-[14px] md:text-[20px]">
-                <strong>Tiktok:</strong> @Hinari_Order🌸
+                <strong>Tiktok:</strong> @hinari_anime
               </span>
             </p>
           </div>
